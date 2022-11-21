@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kai-ahmadov.github.io/sitemap.xml
