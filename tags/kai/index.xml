@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Kai&#39;s Blog</title>
-    <link>https://kai-ahmadov.github.io/posts/</link>
-    <description>Recent content in Posts on Kai&#39;s Blog</description>
+    <title>kai on Kai&#39;s Blog</title>
+    <link>https://kai-ahmadov.github.io/tags/kai/</link>
+    <description>Recent content in kai on Kai&#39;s Blog</description>
     <image>
       <url>https://kai-ahmadov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kai-ahmadov.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 18:23:11 +0000</lastBuildDate><atom:link href="https://kai-ahmadov.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 18:23:11 +0000</lastBuildDate><atom:link href="https://kai-ahmadov.github.io/tags/kai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome Leo</title>
       <link>https://kai-ahmadov.github.io/posts/welcome-leo/</link>
@@ -19,16 +19,6 @@
       <guid>https://kai-ahmadov.github.io/posts/welcome-leo/</guid>
       <description>Welcome to Leo I have a baby brother! His name is LEO!!!
 Welcome to the world, Leo</description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>https://kai-ahmadov.github.io/posts/first-post/</link>
-      <pubDate>Mon, 21 Nov 2022 12:49:29 +0000</pubDate>
-      
-      <guid>https://kai-ahmadov.github.io/posts/first-post/</guid>
-      <description>This is my first ever hello-world blog post! Hi, my name is Kai!
-This is my quote</description>
     </item>
     
   </channel>

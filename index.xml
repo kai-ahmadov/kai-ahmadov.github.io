@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 12:49:29 +0000</lastBuildDate><atom:link href="https://kai-ahmadov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Nov 2022 18:23:11 +0000</lastBuildDate><atom:link href="https://kai-ahmadov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome Leo</title>
+      <link>https://kai-ahmadov.github.io/posts/welcome-leo/</link>
+      <pubDate>Mon, 21 Nov 2022 18:23:11 +0000</pubDate>
+      
+      <guid>https://kai-ahmadov.github.io/posts/welcome-leo/</guid>
+      <description>Welcome to Leo I have a baby brother! His name is LEO!!!
+Welcome to the world, Leo</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://kai-ahmadov.github.io/posts/first-post/</link>
